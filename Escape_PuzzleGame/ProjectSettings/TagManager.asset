@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Electricity
+  - ElectricityScope
+  - ElectricityScopeRight
+  - ElectricityScopeDown
+  - Wall
+  - Poop
+  - Boundary
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Electricity
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: midground
+    uniqueID: 381426027
+    locked: 0
+  - name: Collision
+    uniqueID: 1340223841
+    locked: 0
+  - name: Signs
+    uniqueID: 2425392149
+    locked: 0
+  - name: Player
+    uniqueID: 3100827961
+    locked: 0

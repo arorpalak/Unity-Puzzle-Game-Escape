@@ -1,0 +1,3511 @@
+fileFormatVersion: 2
+guid: e6ceddf9ba232a249bbad3da6f9fdafd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7901132815630046116
+    second: Prison_B Bars_0
+  - first:
+      213: -721243686313534192
+    second: Prison_B Bars_1
+  - first:
+      213: 5891314933312818153
+    second: Prison_B Bars_2
+  - first:
+      213: -8215230927968074682
+    second: Prison_B Bars_3
+  - first:
+      213: -1217547695593178294
+    second: Prison_B Bars_4
+  - first:
+      213: 4626283537294008329
+    second: Prison_B Bars_5
+  - first:
+      213: -6436895159747843841
+    second: Prison_B Bars_6
+  - first:
+      213: 499000260223163990
+    second: Prison_B Bars_7
+  - first:
+      213: 9135902944138281038
+    second: Prison_B Bars_8
+  - first:
+      213: -8482760058922856312
+    second: Prison_B Bars_9
+  - first:
+      213: 3658459559229533211
+    second: Prison_B Bars_10
+  - first:
+      213: 8221001703121392434
+    second: Prison_B Bars_11
+  - first:
+      213: 2416204143756514511
+    second: Prison_B Bars_12
+  - first:
+      213: -2638661508722155112
+    second: Prison_B Bars_13
+  - first:
+      213: -1063404086609971
+    second: Prison_B Bars_14
+  - first:
+      213: 8869798400316751282
+    second: Prison_B Bars_15
+  - first:
+      213: 2772875857591774126
+    second: Prison_B Bars_16
+  - first:
+      213: 6617326107655611999
+    second: Prison_B Bars_17
+  - first:
+      213: 1429550693209091092
+    second: Prison_B Bars_18
+  - first:
+      213: -6008054022858740197
+    second: Prison_B Bars_19
+  - first:
+      213: -1788083699526945492
+    second: Prison_B Bars_20
+  - first:
+      213: -2901264717117297252
+    second: Prison_B Bars_21
+  - first:
+      213: -3341285738530311086
+    second: Prison_B Bars_22
+  - first:
+      213: -6074090337317541906
+    second: Prison_B Bars_23
+  - first:
+      213: 693156919660252184
+    second: Prison_B Bars_24
+  - first:
+      213: -2859778977473144360
+    second: Prison_B Bars_25
+  - first:
+      213: -6463686761276936278
+    second: Prison_B Bars_26
+  - first:
+      213: 5596004034439537319
+    second: Prison_B Bars_27
+  - first:
+      213: -1538255943692680345
+    second: Prison_B Bars_28
+  - first:
+      213: 655377369079464770
+    second: Prison_B Bars_29
+  - first:
+      213: 249693562695374316
+    second: Prison_B Bars_30
+  - first:
+      213: -4906048150014373886
+    second: Prison_B Bars_31
+  - first:
+      213: 7515116180871523891
+    second: Prison_B Bars_32
+  - first:
+      213: 4759499732858424177
+    second: Prison_B Bars_33
+  - first:
+      213: 3877296047620742304
+    second: Prison_B Bars_34
+  - first:
+      213: -3039785783496838379
+    second: Prison_B Bars_35
+  - first:
+      213: 4681225036760809540
+    second: Prison_B Bars_36
+  - first:
+      213: 1452740449391841997
+    second: Prison_B Bars_37
+  - first:
+      213: 3647522457803887838
+    second: Prison_B Bars_38
+  - first:
+      213: -1890137588551138106
+    second: Prison_B Bars_39
+  - first:
+      213: 8169139443805908970
+    second: Prison_B Bars_40
+  - first:
+      213: -1842989070978497322
+    second: Prison_B Bars_41
+  - first:
+      213: -2716502470389152540
+    second: Prison_B Bars_42
+  - first:
+      213: 1970917165542744731
+    second: Prison_B Bars_43
+  - first:
+      213: 6140308999068451294
+    second: Prison_B Bars_44
+  - first:
+      213: 7876632204457941845
+    second: Prison_B Bars_45
+  - first:
+      213: -1090392664400725608
+    second: Prison_B Bars_46
+  - first:
+      213: -3466786753148658890
+    second: Prison_B Bars_47
+  - first:
+      213: 8552306227653237350
+    second: Prison_B Bars_48
+  - first:
+      213: 1534207290298688087
+    second: Prison_B Bars_49
+  - first:
+      213: -5108324906356574170
+    second: Prison_B Bars_50
+  - first:
+      213: -6864200665139538547
+    second: Prison_B Bars_51
+  - first:
+      213: -5791029377539386114
+    second: Prison_B Bars_52
+  - first:
+      213: 8618548400553475435
+    second: Prison_B Bars_53
+  - first:
+      213: -923160464050825721
+    second: Prison_B Bars_54
+  - first:
+      213: -5547457362532968462
+    second: Prison_B Bars_55
+  - first:
+      213: 5290092097754477927
+    second: Prison_B Bars_56
+  - first:
+      213: -3783211156641432541
+    second: Prison_B Bars_57
+  - first:
+      213: -1742584165076330077
+    second: Prison_B Bars_58
+  - first:
+      213: -1067443348170028891
+    second: Prison_B Bars_59
+  - first:
+      213: -1997580016270546286
+    second: Prison_B Bars_60
+  - first:
+      213: -846359341994194873
+    second: Prison_B Bars_61
+  - first:
+      213: 8923586015238141394
+    second: Prison_B Bars_62
+  - first:
+      213: 6257670277269651745
+    second: Prison_B Bars_63
+  - first:
+      213: 3384231050917348283
+    second: Prison_B Bars_64
+  - first:
+      213: 1958208627442609021
+    second: Prison_B Bars_65
+  - first:
+      213: -1707615781667593531
+    second: Prison_B Bars_66
+  - first:
+      213: -4836399021877264925
+    second: Prison_B Bars_67
+  - first:
+      213: 3662915284485083231
+    second: Prison_B Bars_68
+  - first:
+      213: -8352849509856936658
+    second: Prison_B Bars_69
+  - first:
+      213: -1005142672263445026
+    second: Prison_B Bars_70
+  - first:
+      213: -3468595046514073519
+    second: Prison_B Bars_71
+  - first:
+      213: -8499639636880202643
+    second: Prison_B Bars_72
+  - first:
+      213: -8547179676238894057
+    second: Prison_B Bars_73
+  - first:
+      213: 2489979901857370282
+    second: Prison_B Bars_74
+  - first:
+      213: -6177340221141448271
+    second: Prison_B Bars_75
+  - first:
+      213: -579756727896133028
+    second: Prison_B Bars_76
+  - first:
+      213: -1548117012303611499
+    second: Prison_B Bars_77
+  - first:
+      213: -8379885823156995988
+    second: Prison_B Bars_78
+  - first:
+      213: 2335498959844037954
+    second: Prison_B Bars_79
+  - first:
+      213: 8412638761677983857
+    second: Prison_B Bars_80
+  - first:
+      213: 5657547638100608397
+    second: Prison_B Bars_81
+  - first:
+      213: 6862829702675262039
+    second: Prison_B Bars_82
+  - first:
+      213: 8310088048563903135
+    second: Prison_B Bars_83
+  - first:
+      213: 3977113128547520610
+    second: Prison_B Bars_84
+  - first:
+      213: 5279052883269292232
+    second: Prison_B Bars_85
+  - first:
+      213: -5640778784130242821
+    second: Prison_B Bars_86
+  - first:
+      213: -2015169488578818419
+    second: Prison_B Bars_87
+  - first:
+      213: 512699125169842139
+    second: Prison_B Bars_88
+  - first:
+      213: -3983341917685373493
+    second: Prison_B Bars_89
+  - first:
+      213: -4527335012077729659
+    second: Prison_B Bars_90
+  - first:
+      213: -2640292188022705318
+    second: Prison_B Bars_91
+  - first:
+      213: 1684729700198140621
+    second: Prison_B Bars_92
+  - first:
+      213: 5773961656783358647
+    second: Prison_B Bars_93
+  - first:
+      213: 2996739812640927546
+    second: Prison_B Bars_94
+  - first:
+      213: -3245740510505226476
+    second: Prison_B Bars_95
+  - first:
+      213: -8957220568639258859
+    second: Prison_B Bars_96
+  - first:
+      213: 3769731218062428441
+    second: Prison_B Bars_97
+  - first:
+      213: -8649160759029439616
+    second: Prison_B Bars_98
+  - first:
+      213: -6399289492594240442
+    second: Prison_B Bars_99
+  - first:
+      213: -8370198523894892214
+    second: Prison_B Bars_100
+  - first:
+      213: 8233048276490297153
+    second: Prison_B Bars_101
+  - first:
+      213: -4585028567320250334
+    second: Prison_B Bars_102
+  - first:
+      213: 3858793678930269785
+    second: Prison_B Bars_103
+  - first:
+      213: -5290195095963178822
+    second: Prison_B Bars_104
+  - first:
+      213: -3246804746343686516
+    second: Prison_B Bars_105
+  - first:
+      213: -8352734932751499225
+    second: Prison_B Bars_106
+  - first:
+      213: -3796097166194598091
+    second: Prison_B Bars_107
+  - first:
+      213: 7564392848357850854
+    second: Prison_B Bars_108
+  - first:
+      213: -1796046200154502658
+    second: Prison_B Bars_109
+  - first:
+      213: -5505653113734870851
+    second: Prison_B Bars_110
+  - first:
+      213: 6164504900955712321
+    second: Prison_B Bars_111
+  - first:
+      213: -8890837910449514101
+    second: Prison_B Bars_112
+  - first:
+      213: -1726354963904335937
+    second: Prison_B Bars_113
+  - first:
+      213: 7790763251766727371
+    second: Prison_B Bars_114
+  - first:
+      213: -4874966386862454412
+    second: Prison_B Bars_115
+  - first:
+      213: -203807128599925952
+    second: Prison_B Bars_116
+  - first:
+      213: 3629669087759515984
+    second: Prison_B Bars_117
+  - first:
+      213: 6682531446531966109
+    second: Prison_B Bars_118
+  - first:
+      213: -8872981383930630752
+    second: Prison_B Bars_119
+  - first:
+      213: 5613092057908789569
+    second: Prison_B Bars_120
+  - first:
+      213: 5089662936587720909
+    second: Prison_B Bars_121
+  - first:
+      213: -5062011693753647165
+    second: Prison_B Bars_122
+  - first:
+      213: -3368925696296651127
+    second: Prison_B Bars_123
+  - first:
+      213: -7218988860647181806
+    second: Prison_B Bars_124
+  - first:
+      213: -8045296768588431115
+    second: Prison_B Bars_125
+  - first:
+      213: 5108108731564404925
+    second: Prison_B Bars_126
+  - first:
+      213: 6946492888823841363
+    second: Prison_B Bars_127
+  - first:
+      213: 7699588324619400344
+    second: Prison_B Bars_128
+  - first:
+      213: -3227655533202686344
+    second: Prison_B Bars_129
+  - first:
+      213: -5978952207602653884
+    second: Prison_B Bars_130
+  - first:
+      213: 797709919568911719
+    second: Prison_B Bars_131
+  - first:
+      213: 1782012690652459
+    second: Prison_B Bars_132
+  - first:
+      213: 1140633503820071720
+    second: Prison_B Bars_133
+  - first:
+      213: 5200064904809531652
+    second: Prison_B Bars_134
+  - first:
+      213: 4526836491443006947
+    second: Prison_B Bars_135
+  - first:
+      213: 7217230051422285978
+    second: Prison_B Bars_136
+  - first:
+      213: 8800042173249332343
+    second: Prison_B Bars_137
+  - first:
+      213: 8816092719239343413
+    second: Prison_B Bars_138
+  - first:
+      213: 871893393721737449
+    second: Prison_B Bars_139
+  - first:
+      213: 6118355488791468294
+    second: Prison_B Bars_140
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Prison_B Bars_0
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a4b5d410398ae46993e3d7f89e77f2
+      internalID: -7901132815630046116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2458d2d9b8f2f074b98ecd79ba1e65be
+      internalID: -721243686313534192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484f7776df07dd74ab57608ce785b00b
+      internalID: 5891314933312818153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f6442442c3a7448aa2a069719c9ce9
+      internalID: -8215230927968074682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167a059788f54f543b7008823f03f3a2
+      internalID: -1217547695593178294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642a86561e5767d47b5612809a10b7b5
+      internalID: 4626283537294008329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce49182a5bc4234ca005f2d28dc7a2d
+      internalID: -6436895159747843841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_7
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923eace0d6dd13a4e8165ab310d5f8b8
+      internalID: 499000260223163990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abed0361df3a75a4091c34bae13b4692
+      internalID: 9135902944138281038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da61e7f8c5a61de4eb5287dc2631f7bb
+      internalID: -8482760058922856312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_10
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc75c49703681840b290cfb5c600130
+      internalID: 3658459559229533211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8ba41c1caeaab429f06505a4849beb
+      internalID: 8221001703121392434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a87120ccdacb34abdd8580097bd853
+      internalID: 2416204143756514511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085aea81f4aa3e345bcd0de660acf308
+      internalID: -2638661508722155112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce481e3d73e01e44892065091d18685
+      internalID: -1063404086609971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abf634ab4f09db4bb934788b9e21f25
+      internalID: 8869798400316751282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_16
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df3c963f0c904949a0690b7e2a6e2d4
+      internalID: 2772875857591774126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_17
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b4007bcf0e54c48b805a0c7df92400
+      internalID: 6617326107655611999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_18
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153e0167199ed2c41bd2af6a6a36a489
+      internalID: 1429550693209091092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef360bc910cb634ca88a73e76c712f1
+      internalID: -6008054022858740197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad25c5709d08d0a4d9cd9df1ec68af06
+      internalID: -1788083699526945492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9e080fa66365346af09667c0d06602
+      internalID: -2901264717117297252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3a368e7a49b0a4f8c8008dcecb5826
+      internalID: -3341285738530311086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_23
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276ffd24fda688d4daa1f42594f6e0dc
+      internalID: -6074090337317541906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_24
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2562d7298a9cba645a5487e8e091cd92
+      internalID: 693156919660252184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10396d29dba1e764f8562cac9a0dab9f
+      internalID: -2859778977473144360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c821288f5a9111541a5d5ea5061be895
+      internalID: -6463686761276936278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a527805b7d81ec44b0fc60c7072a523
+      internalID: 5596004034439537319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9b78aa3229fef48bcc9353ca2bb9fb
+      internalID: -1538255943692680345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afe282026681a14f92b668b963a2c36
+      internalID: 655377369079464770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_30
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79810a278a1eb84c8fa95ac3e9384e8
+      internalID: 249693562695374316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05346526aae460042910133e6b0420fe
+      internalID: -4906048150014373886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff47817f102942f44a7617b10e2be0a5
+      internalID: 7515116180871523891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3bab2fe998d76498a4bc80479654d2
+      internalID: 4759499732858424177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_34
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415443b938da71a428fbdb16e8d74cb4
+      internalID: 3877296047620742304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_35
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f6ba5f59b20c747a8e0024734ba6ce
+      internalID: -3039785783496838379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_36
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea7a058e5993ae499604a9adc794fbb
+      internalID: 4681225036760809540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_37
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5027c27a8553541ab9b765c3a68a16
+      internalID: 1452740449391841997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_38
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2971064c8a737a4a8dd0286f63b6ea6
+      internalID: 3647522457803887838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d2e7c0702c5654187468fa08f34510
+      internalID: -1890137588551138106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_40
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719f204ba1f0f1f40b1f6c42da705626
+      internalID: 8169139443805908970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3950c79f2ea83dd4fbb5abc8cf43316c
+      internalID: -1842989070978497322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_42
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1ac97e2b00baa47bb43b0cdaa76b6a
+      internalID: -2716502470389152540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_43
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e02804283ade8747856ea8bc4d333d2
+      internalID: 1970917165542744731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3bc265eddcb564dac1f8f61b6cf253
+      internalID: 6140308999068451294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac37d79f0af34a04ebcb7b72b7ba1ac2
+      internalID: 7876632204457941845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_46
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0b759c16d95a64e906e3dda63732e6
+      internalID: -1090392664400725608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_47
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508184afface7c944a44ad2aaaae7c02
+      internalID: -3466786753148658890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_48
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a0233954508d042bc80bad85ce71a4
+      internalID: 8552306227653237350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69deb42c270e97468bf6af35c3758d5
+      internalID: 1534207290298688087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_50
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d91453401f8dc147ab63dc8d7663d21
+      internalID: -5108324906356574170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98cf4a6675ca614a94724df9012a109
+      internalID: -6864200665139538547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e699ed8221dd40f478a79eb3fcbd2e76
+      internalID: -5791029377539386114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_53
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b42109cf5bf32438c334d7a7f5711b
+      internalID: 8618548400553475435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_54
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f10ac21defd144bb1c6cae40a9b8b5
+      internalID: -923160464050825721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6ed10e0ef2e024c9fea450ff08dba5
+      internalID: -5547457362532968462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_56
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f641e2631bb184b90a760e7d6300de
+      internalID: 5290092097754477927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41a7728a5a45554d8ef569df363dc2d
+      internalID: -3783211156641432541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_58
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d17be641d50494c92b03ed4b527904
+      internalID: -1742584165076330077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_59
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb00c3795c028d409bc02ae68c00fe9
+      internalID: -1067443348170028891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daa4ec004ce2a04f8e9378efad86152
+      internalID: -1997580016270546286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_61
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b5afe2645b6b748ab64524382dee69
+      internalID: -846359341994194873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_62
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a409607cbe3aa419b6241ba8fc4c14
+      internalID: 8923586015238141394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_63
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb08cf8063220fd468e62097b901ab6d
+      internalID: 6257670277269651745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0189749ccd457ab4ca3016d0788a87f6
+      internalID: 3384231050917348283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_65
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca77244f2e45ad743b317deb83159143
+      internalID: 1958208627442609021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9113f640efc76b4bb28093de9d94854
+      internalID: -1707615781667593531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_67
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513af8134fda4be42bdd89e30a4e6916
+      internalID: -4836399021877264925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376e68e9454aadb489bf40c0dbf61a36
+      internalID: 3662915284485083231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9301e3ad58628346b65f66fa22d3055
+      internalID: -8352849509856936658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_70
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971a8ad9c2407534b9fed64f9d1c70fe
+      internalID: -1005142672263445026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_71
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7b6b99aa823b34a897bcd82393b854
+      internalID: -3468595046514073519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_72
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a2fdbdff2712545ae5d9ae00e4ef3e
+      internalID: -8499639636880202643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_73
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74ca7fbf47bb6d498e9b5e30f9d745c
+      internalID: -8547179676238894057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_74
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c158fcb07fcd334ab7359d50531c4d4
+      internalID: 2489979901857370282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_75
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad63c2bbad9f08343b4717839c306dd8
+      internalID: -6177340221141448271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_76
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66346b9c05cdbe448d7258effc0d457
+      internalID: -579756727896133028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c60ebc519ca094b89dbe098d17e3cc
+      internalID: -1548117012303611499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52422f0b97fa7704b9229449d8ff19f2
+      internalID: -8379885823156995988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_79
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8a85dc34be2d44ba25a22edc082efe
+      internalID: 2335498959844037954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_80
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edb3d783f1193f448357111f8a72890
+      internalID: 8412638761677983857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_81
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86d36abb1e822f42ab0d70eee8d9266
+      internalID: 5657547638100608397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_82
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d79ded782b21249b58c09a1820591c
+      internalID: 6862829702675262039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_83
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79bc667f52190245bf739a8edd8c28a
+      internalID: 8310088048563903135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_84
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19f9797543920b4681e6270edf8caea
+      internalID: 3977113128547520610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_85
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f001a6082d665479f74ec4ebf75556
+      internalID: 5279052883269292232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334e51bb486b50242878dde59d28e963
+      internalID: -5640778784130242821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c382af31e324461488139b64d8bd4a2c
+      internalID: -2015169488578818419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_88
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecac748cf954e3438ac279972afac74
+      internalID: 512699125169842139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_89
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe4e3d98b9c51f4b89fe768ce58f10c
+      internalID: -3983341917685373493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_90
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2fc8c4e315e7047bd8eece2bee4cf3
+      internalID: -4527335012077729659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_91
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fef0c23d44a73a469b8d140193f0b55
+      internalID: -2640292188022705318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_92
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8ef6f77291c194e957a97b26c50b64
+      internalID: 1684729700198140621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_93
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4293f5c15509756478a49ef2821b7cf0
+      internalID: 5773961656783358647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_94
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49d9f15eabc58d439bc03ffebcb1b8c
+      internalID: 2996739812640927546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003c07c11a391d8438afd0266cf52db4
+      internalID: -3245740510505226476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5819fe2cee3437428383b842c925533
+      internalID: -8957220568639258859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_97
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fa67751731f3043ba552da72590c98
+      internalID: 3769731218062428441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_98
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51da566d8ca62fb4299b8a62569ea058
+      internalID: -8649160759029439616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_99
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd217f423ec90846a87f13d1dc9053f
+      internalID: -6399289492594240442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_100
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f104ee930041b54aa4024a274b98075
+      internalID: -8370198523894892214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_101
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d6c4810b96f41479102139089a7073
+      internalID: 8233048276490297153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_102
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad67e45090d12dc4dab383bb90fa40fa
+      internalID: -4585028567320250334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_103
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f6bfcdae6906b41a8e8a9939a89282
+      internalID: 3858793678930269785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7080a502987a7984d9e41f934496448b
+      internalID: -5290195095963178822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_105
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec2de8073578404bbfe1b1c583fc49d
+      internalID: -3246804746343686516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_106
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0acd612c5c136641809423225f57f68
+      internalID: -8352734932751499225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_107
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2f59d653a98004989a4ba0a4b5597f
+      internalID: -3796097166194598091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_108
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82977152f8c46f840843c164d126d383
+      internalID: 7564392848357850854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_109
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08dee491a0bc2b4f832a18889ff9484
+      internalID: -1796046200154502658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_110
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e0091b2ac2e9f46bc9fcba23083b07
+      internalID: -5505653113734870851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a4b19d68112934a9aaf0e20b16369f
+      internalID: 6164504900955712321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_112
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0901bf1e74352b40bc5dfd4a6a94310
+      internalID: -8890837910449514101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_113
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b847f5ef3ea1e4439cee4eaeec2682b
+      internalID: -1726354963904335937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_114
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b404a9425459b4098e15ca9df4e6f0
+      internalID: 7790763251766727371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_115
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c086db03be7a9a4fb1d1e59956eb004
+      internalID: -4874966386862454412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_116
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13985ab0628e73f4492dc43b6eee3ed2
+      internalID: -203807128599925952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_117
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4fd424c2f533d44b2ea59678b16572
+      internalID: 3629669087759515984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_118
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94612ffbd4fa00046b0b1c21ca580159
+      internalID: 6682531446531966109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_119
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ee28ad3b15e494cbb48313e8780c26
+      internalID: -8872981383930630752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_120
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8989cb310afa2f347b7bb829217e1b75
+      internalID: 5613092057908789569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_121
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3435e1e04a1b817458234c5d89dbbbc9
+      internalID: 5089662936587720909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_122
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3dc60a846cd2442b638d49b7ea072e
+      internalID: -5062011693753647165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_123
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a631d2765cb1c14bb1c8c92019d810d
+      internalID: -3368925696296651127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_124
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ee9059bbfc7a848af9d4cfaa1d3cee
+      internalID: -7218988860647181806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61798ffdf7342444b8de7dc44bdecde
+      internalID: -8045296768588431115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_126
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede9cdb3e5f4e154bb903168489d9296
+      internalID: 5108108731564404925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191f9cc855c93704db94bda655177c0e
+      internalID: 6946492888823841363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_128
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6989d56bb379d48b1cd3b9f6030ff2
+      internalID: 7699588324619400344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_129
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4fc1cc67514e04184fbdc11c17a870
+      internalID: -3227655533202686344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_130
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88b5bde70f58a140911bb5f9c427260
+      internalID: -5978952207602653884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_131
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1857ca96431b13041ae6d1469ee4b9b9
+      internalID: 797709919568911719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_132
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188a2edf298b2304fb0025383cb4e878
+      internalID: 1782012690652459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_133
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f05350fb8bb8fa42b866a8adf102986
+      internalID: 1140633503820071720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_134
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aeec45a5ea9a104fa67d53a7bc13b36
+      internalID: 5200064904809531652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_135
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd841db46259374ab97fb481bbbcc02
+      internalID: 4526836491443006947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_136
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73aa76b51caa14543bbf58609bc4f505
+      internalID: 7217230051422285978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_137
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1cb0cbf67ed0941b8543ffdd37cfc1
+      internalID: 8800042173249332343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_138
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad892676692fa534a85fc3595ab12080
+      internalID: 8816092719239343413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_139
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ecf4f61ebc3624987b93b8d66c6832
+      internalID: 871893393721737449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prison_B Bars_140
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb05f36227c090543bcc42c677c68b12
+      internalID: 6118355488791468294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
